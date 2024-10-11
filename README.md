@@ -1,2 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duyng21303&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duyng21303&show_icons=true&theme=radical) <br/>
 <img src="https://profile-counter.glitch.me/duyng21303/count.svg" />
